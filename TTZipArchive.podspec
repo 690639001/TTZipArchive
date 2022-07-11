@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 		一个可以适配SSZipArchive的pod库,解决手动导入ZipArchive和SSZipArchive解压缩出现的问题
                    DESC
 
-  spec.homepage     = "http://115.28.168.100:10080/IOS-zhangqiuhu/TTZipArchive/src/0.0.1"
+  spec.homepage     = "https://github.com/690639001/TTZipArchive/tree/0.0.1"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://115.28.168.100:10080/IOS-zhangqiuhu/TTZipArchive.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/690639001/TTZipArchive.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
